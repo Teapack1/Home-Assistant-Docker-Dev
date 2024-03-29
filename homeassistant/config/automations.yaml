@@ -1,0 +1,21 @@
+- id: '1710190338628'
+  alias: conneced
+  description: ''
+  trigger:
+  - type: connected
+    platform: device
+    device_id: ea057926ff040b58d05cfff6957d05fd
+    entity_id: 5e3e3bdaedfd4c79c60f5b076bc8119a
+    domain: binary_sensor
+    for:
+      hours: 0
+      minutes: 0
+      seconds: 30
+  condition: []
+  action:
+  - service: notify.notify
+    metadata: {}
+    data:
+      message: it is up
+      title: connected
+  mode: single

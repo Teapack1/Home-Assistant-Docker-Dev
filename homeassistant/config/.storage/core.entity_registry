@@ -1,0 +1,878 @@
+{
+  "version": 1,
+  "minor_version": 12,
+  "key": "core.entity_registry",
+  "data": {
+    "entities": [
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_dawn",
+        "hidden_by": null,
+        "icon": null,
+        "id": "83192736b2b211961e447c0f0d24a4c5",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next dawn",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_dawn",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_dawn",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_dusk",
+        "hidden_by": null,
+        "icon": null,
+        "id": "1d01ccc6cafed068524bb442d97946c2",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next dusk",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_dusk",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_dusk",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_midnight",
+        "hidden_by": null,
+        "icon": null,
+        "id": "37c7b2c9703f1a7329536d7cf4f19773",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next midnight",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_midnight",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_midnight",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_noon",
+        "hidden_by": null,
+        "icon": null,
+        "id": "ca87ec86f4fb4798ef3c5e8194c4688b",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next noon",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_noon",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_noon",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_rising",
+        "hidden_by": null,
+        "icon": null,
+        "id": "fba8a40ee0d4614a767584853e9b1223",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next rising",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_rising",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_rising",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_next_setting",
+        "hidden_by": null,
+        "icon": null,
+        "id": "17c9b8c0dd8c56ac9da19eb74a4655ec",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "timestamp",
+        "original_icon": null,
+        "original_name": "Next setting",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "next_setting",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-next_setting",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": "integration",
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_solar_elevation",
+        "hidden_by": null,
+        "icon": null,
+        "id": "ffdbd351e7a6bd7363fb929311860a6a",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Solar elevation",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "solar_elevation",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-solar_elevation",
+        "previous_unique_id": null,
+        "unit_of_measurement": "°"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": "integration",
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_solar_azimuth",
+        "hidden_by": null,
+        "icon": null,
+        "id": "a8ba9cdb63b7ae4fafa6ce15e4b72e14",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Solar azimuth",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "solar_azimuth",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-solar_azimuth",
+        "previous_unique_id": null,
+        "unit_of_measurement": "°"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "9a49f904f21c1cfb44cfe682ae7275ff",
+        "device_class": null,
+        "device_id": "3e31c2fc4f92e91b515823483db625cf",
+        "disabled_by": "integration",
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.sun_solar_rising",
+        "hidden_by": null,
+        "icon": null,
+        "id": "67d6f5d05c941b68d76eec2ad0a2a97b",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Solar rising",
+        "platform": "sun",
+        "supported_features": 0,
+        "translation_key": "solar_rising",
+        "unique_id": "9a49f904f21c1cfb44cfe682ae7275ff-solar_rising",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "person.ondrej",
+        "hidden_by": null,
+        "icon": null,
+        "id": "106cc0e15e4d0a28fe982c8c634564fb",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Ondrej",
+        "platform": "person",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "ondrej",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "f71e6889e8c04cb4a5938d939cfa8fb2",
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "tts.google_en_com",
+        "hidden_by": null,
+        "icon": null,
+        "id": "55fec6a1f80cd073c6c543ab00e26168",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Google en com",
+        "platform": "google_translate",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "f71e6889e8c04cb4a5938d939cfa8fb2",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "d770ea95705bcb55ab53667308e07b86",
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "todo.shopping_list",
+        "hidden_by": null,
+        "icon": null,
+        "id": "5ad2ac21e384965ccbadf4cea5a28c3d",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": true
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:cart",
+        "original_name": "Shopping List",
+        "platform": "shopping_list",
+        "supported_features": 15,
+        "translation_key": "shopping_list",
+        "unique_id": "d770ea95705bcb55ab53667308e07b86",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "e41f28672022464319b134e54b21b0f3",
+        "device_class": null,
+        "device_id": "33f9b11addf58a68f2ef955bb46049fb",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "weather.forecast_home",
+        "hidden_by": null,
+        "icon": null,
+        "id": "da6db01199ef8782b7c1f473961f6411",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Home",
+        "platform": "met",
+        "supported_features": 3,
+        "translation_key": null,
+        "unique_id": "home",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total_increasing"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_data_received",
+        "hidden_by": null,
+        "icon": null,
+        "id": "4b45b1aa1bbd0a01879989441562b1f5",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "data_size",
+        "original_icon": "mdi:server-network",
+        "original_name": "Data received",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "data_received",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_bytes_received",
+        "previous_unique_id": null,
+        "unit_of_measurement": "B"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total_increasing"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_data_sent",
+        "hidden_by": null,
+        "icon": null,
+        "id": "f2ed0ca16d83eddb0583a358e2f72d48",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "data_size",
+        "original_icon": "mdi:server-network",
+        "original_name": "Data sent",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "data_sent",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_bytes_sent",
+        "previous_unique_id": null,
+        "unit_of_measurement": "B"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total_increasing"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_packets_received",
+        "hidden_by": null,
+        "icon": null,
+        "id": "66a955830e15af241fdafbe5297e0e13",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "Packets received",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "packets_received",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_packets_received",
+        "previous_unique_id": null,
+        "unit_of_measurement": "packets"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "total_increasing"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_packets_sent",
+        "hidden_by": null,
+        "icon": null,
+        "id": "814e48e7311928b77a0bb3936a6457b4",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "Packets sent",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "packets_sent",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_packets_sent",
+        "previous_unique_id": null,
+        "unit_of_measurement": "packets"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.tl_wr841n_external_ip",
+        "hidden_by": null,
+        "icon": null,
+        "id": "b93b80dcb3d9a9b82eacbe2238f8b3d7",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "External IP",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "external_ip",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_ip",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.tl_wr841n_uptime",
+        "hidden_by": null,
+        "icon": null,
+        "id": "86493d82c5907f0f342a0c1c108193d4",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "Uptime",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "uptime",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_uptime",
+        "previous_unique_id": null,
+        "unit_of_measurement": "s"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.tl_wr841n_wan_status",
+        "hidden_by": null,
+        "icon": null,
+        "id": "17232664b82b9af6cd22edb5fcecc400",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "WAN status",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "wan_status",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_wan_status",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_download_speed",
+        "hidden_by": null,
+        "icon": null,
+        "id": "3de864d174db8537d91b6432255c547b",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "sensor": {
+            "suggested_display_precision": 1
+          },
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "data_rate",
+        "original_icon": "mdi:server-network",
+        "original_name": "Download speed",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "download_speed",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_KiB/sec_received",
+        "previous_unique_id": null,
+        "unit_of_measurement": "KiB/s"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_upload_speed",
+        "hidden_by": null,
+        "icon": null,
+        "id": "4de54ac4ea246cc6e93a7d17d22c7478",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "sensor": {
+            "suggested_display_precision": 1
+          },
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "data_rate",
+        "original_icon": "mdi:server-network",
+        "original_name": "Upload speed",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "upload_speed",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_KiB/sec_sent",
+        "previous_unique_id": null,
+        "unit_of_measurement": "KiB/s"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_packet_download_speed",
+        "hidden_by": null,
+        "icon": null,
+        "id": "6ec7b9712722d6337e21c74f240854e4",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "Packet download speed",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "packet_download_speed",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_packets/sec_received",
+        "previous_unique_id": null,
+        "unit_of_measurement": "packets/s"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": "integration",
+        "entity_category": null,
+        "entity_id": "sensor.tl_wr841n_packet_upload_speed",
+        "hidden_by": null,
+        "icon": null,
+        "id": "a12ece9284b94c2b4f5928824a876f5c",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": "mdi:server-network",
+        "original_name": "Packet upload speed",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "packet_upload_speed",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_packets/sec_sent",
+        "previous_unique_id": null,
+        "unit_of_measurement": "packets/s"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "device_class": null,
+        "device_id": "ea057926ff040b58d05cfff6957d05fd",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "binary_sensor.tl_wr841n_wan_status",
+        "hidden_by": null,
+        "icon": null,
+        "id": "5e3e3bdaedfd4c79c60f5b076bc8119a",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": "connectivity",
+        "original_icon": null,
+        "original_name": "WAN status",
+        "platform": "upnp",
+        "supported_features": 0,
+        "translation_key": "wan_status",
+        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37_wan_status",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "id": "1710190338628"
+        },
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "automation.conneced",
+        "hidden_by": null,
+        "icon": null,
+        "id": "5b25f3d1f9da8cde60a5d756d49c1d97",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "conneced",
+        "platform": "automation",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "1710190338628",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "c5c5e151e92044859d1a872f47a1682b",
+        "device_class": null,
+        "device_id": "2215f1f3f25f148260ebce6d0893ec96",
+        "disabled_by": null,
+        "entity_category": "config",
+        "entity_id": "update.hacs_update",
+        "hidden_by": null,
+        "icon": null,
+        "id": "9a4e736c1c7b9392f3820907fcf58cb9",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "HACS update",
+        "platform": "hacs",
+        "supported_features": 23,
+        "translation_key": null,
+        "unique_id": "172733314",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "c5c5e151e92044859d1a872f47a1682b",
+        "device_class": null,
+        "device_id": "1a6a5c34c8d5978c91d72267c06e7923",
+        "disabled_by": null,
+        "entity_category": "config",
+        "entity_id": "update.node_red_companion_update",
+        "hidden_by": null,
+        "icon": null,
+        "id": "ae5f3a213f0f1db49f176dd1e85e3a9f",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": false
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Node-RED Companion update",
+        "platform": "hacs",
+        "supported_features": 23,
+        "translation_key": null,
+        "unique_id": "202987887",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      }
+    ],
+    "deleted_entities": []
+  }
+}

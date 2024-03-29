@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"person.ondrej","state":"unknown","attributes":{"editable":true,"id":"ondrej","user_id":"75a8cd8aede24f82b5b30eb8d1f2af64","device_trackers":[],"friendly_name":"Ondrej"},"last_changed":"2024-03-29T14:19:08.608741+00:00","last_updated":"2024-03-29T14:19:40.886070+00:00","context":{"id":"01HT5998YPEWDJHWGYGHBGCBT8","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-29T15:34:28.300807+00:00"
+    },
+    {
+      "state": {"entity_id":"automation.conneced","state":"on","attributes":{"id":"1710190338628","last_triggered":"2024-03-29T15:24:53.289246+00:00","mode":"single","current":0,"friendly_name":"conneced"},"last_changed":"2024-03-29T14:19:31.179496+00:00","last_updated":"2024-03-29T15:24:53.291567+00:00","context":{"id":"01HT5D0NN8BE8X417RWYFGHVRK","parent_id":"01HT5CZRBPK3NH6GEB710WHVQB","user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-29T15:34:28.300807+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_en_com","state":"unknown","attributes":{"friendly_name":"Google en com"},"last_changed":"2024-03-29T14:19:31.548572+00:00","last_updated":"2024-03-29T14:19:31.548572+00:00","context":{"id":"01HT598ZTWA8YSXVM6BK7QPFAZ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-29T15:34:28.300807+00:00"
+    },
+    {
+      "state": {"entity_id":"update.node_red_companion_update","state":"off","attributes":{"auto_update":false,"installed_version":"v3.1.3","in_progress":false,"latest_version":"v3.1.3","release_summary":null,"release_url":"https://github.com/zachowj/hass-node-red/releases/v3.1.3","skipped_version":null,"title":null,"entity_picture":"https://brands.home-assistant.io/_/nodered/icon.png","friendly_name":"Node-RED Companion update","supported_features":23},"last_changed":"2024-03-29T14:19:32.340097+00:00","last_updated":"2024-03-29T14:19:32.340097+00:00","context":{"id":"01HT5990KMESZTDYE09FR2V740","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-29T15:34:28.300807+00:00"
+    },
+    {
+      "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"installed_version":"1.34.0","in_progress":false,"latest_version":"1.34.0","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/1.34.0","skipped_version":null,"title":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2024-03-29T14:19:32.340877+00:00","last_updated":"2024-03-29T14:19:32.340877+00:00","context":{"id":"01HT5990KM88WH9STDQ2Q3QKG6","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-29T15:34:28.300807+00:00"
+    }
+  ]
+}
