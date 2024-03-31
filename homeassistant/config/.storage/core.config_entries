@@ -80,27 +80,6 @@
         "disabled_by": null
       },
       {
-        "entry_id": "ddb9be630b69db38edd11478f86b1a11",
-        "version": 1,
-        "minor_version": 1,
-        "domain": "upnp",
-        "title": "TL-WR841N",
-        "data": {
-          "udn": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37",
-          "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
-          "original_udn": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37",
-          "location": "http://192.168.0.1:1900/gatedesc.xml",
-          "mac_address": "40:3f:8c:91:20:48",
-          "host": "192.168.0.1"
-        },
-        "options": {},
-        "pref_disable_new_entities": false,
-        "pref_disable_polling": false,
-        "source": "ssdp",
-        "unique_id": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
-        "disabled_by": null
-      },
-      {
         "entry_id": "08a18d104d174b7730eba13d92db3ba1",
         "version": 1,
         "minor_version": 1,
@@ -151,6 +130,110 @@
         "pref_disable_polling": false,
         "source": "user",
         "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "33f814e8b39b5d64a82e2d2c56cd6861",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "esphome",
+        "title": "esp32",
+        "data": {
+          "host": "192.168.0.102",
+          "port": 6053
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "08:d1:f9:99:aa:88",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ddb9be630b69db38edd11478f86b1a11",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "upnp",
+        "title": "TL-WR841N",
+        "data": {
+          "udn": "uuid:060b7353-fca6-4070-85f4-1fbfb9add62c",
+          "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+          "original_udn": "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37",
+          "location": "http://192.168.0.1:1900/igd.xml",
+          "mac_address": "f8:d1:11:96:ed:b4",
+          "host": "192.168.0.1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:060b7353-fca6-4070-85f4-1fbfb9add62c::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "e6bd22a35d0338dd9b3cf3a205c6bb51",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "esphome",
+        "title": "esp8266",
+        "data": {
+          "host": "esp8266.local",
+          "port": 6053,
+          "password": "",
+          "noise_psk": "cWvfn0LIOS/viuBxAhelQLb6KQyQbVoDLsWy9P+ofFs=",
+          "device_name": "esp8266"
+        },
+        "options": {
+          "allow_service_calls": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "e8:db:84:e4:30:fa",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "91c7c003f59fe826375da425ef61ed83",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "esphome",
+        "title": "esp32d1mini",
+        "data": {
+          "host": "192.168.0.101",
+          "port": 6053,
+          "password": "",
+          "noise_psk": "MmuDNxNuCVTFMlHiTV9fW+UD5Fo+xk2+ej8C5HEDe10=",
+          "device_name": "esp32d1mini"
+        },
+        "options": {
+          "allow_service_calls": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "08:d1:f9:27:e3:7c",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "415df665510b37949e15232746a339d2",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "esphome",
+        "title": "esp32C3-supermini",
+        "data": {
+          "host": "192.168.0.104",
+          "port": 6053,
+          "password": "",
+          "noise_psk": "XlQXPjjbSwVZa04RzsTZ7oE5qXJ2pgUEzYCgwqFDDPI=",
+          "device_name": "esp32c3-supermini"
+        },
+        "options": {
+          "allow_service_calls": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "84:fc:e6:00:1f:94",
         "disabled_by": null
       }
     ]

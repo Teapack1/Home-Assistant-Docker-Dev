@@ -24,6 +24,13 @@
         "id": "bedroom",
         "name": "Bedroom",
         "picture": null
+      },
+      {
+        "aliases": [],
+        "icon": null,
+        "id": "testing_room",
+        "name": "Testing Room",
+        "picture": null
       }
     ]
   }

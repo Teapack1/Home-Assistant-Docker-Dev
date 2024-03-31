@@ -871,6 +871,96 @@
         "unique_id": "202987887",
         "previous_unique_id": null,
         "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "e6bd22a35d0338dd9b3cf3a205c6bb51",
+        "device_class": null,
+        "device_id": "159c429746e9cbd2e29e340c938777e3",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.esp8266_builtin_led",
+        "hidden_by": null,
+        "icon": null,
+        "id": "32c25dafbe6b5bd96ca4f6593e7836d5",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": true
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Builtin LED",
+        "platform": "esphome",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "E8:DB:84:E4:30:FA-switch-builtin_led",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "91c7c003f59fe826375da425ef61ed83",
+        "device_class": null,
+        "device_id": "a4b7da25eee0decf129962c189015868",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.esp32d1mini_builtin_led",
+        "hidden_by": null,
+        "icon": null,
+        "id": "2c59a36cdbed5f3d0ccad9e9d78da55d",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": true
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Builtin LED",
+        "platform": "esphome",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "08:D1:F9:27:E3:7C-switch-builtin_led",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "415df665510b37949e15232746a339d2",
+        "device_class": null,
+        "device_id": "e6187571ed447222e11bf4e299518466",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.esp32c3_supermini_builtin_led",
+        "hidden_by": null,
+        "icon": null,
+        "id": "a91f6b6f16b7bd5391c1a5e917d69637",
+        "has_entity_name": true,
+        "name": null,
+        "options": {
+          "conversation": {
+            "should_expose": true
+          }
+        },
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Builtin LED",
+        "platform": "esphome",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "84:FC:E6:00:1F:94-switch-builtin_led",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
       }
     ],
     "deleted_entities": []

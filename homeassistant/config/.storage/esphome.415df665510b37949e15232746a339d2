@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.415df665510b37949e15232746a339d2",
+  "data": {
+    "device_info": {
+      "uses_password": false,
+      "name": "esp32c3-supermini",
+      "friendly_name": "esp32C3-supermini",
+      "mac_address": "84:FC:E6:00:1F:94",
+      "compilation_time": "Mar 31 2024, 18:57:01",
+      "model": "esp32-c3-devkitm-1",
+      "manufacturer": "Espressif",
+      "has_deep_sleep": false,
+      "esphome_version": "2023.12.9",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0,
+      "voice_assistant_version": 0,
+      "legacy_bluetooth_proxy_version": 0,
+      "bluetooth_proxy_feature_flags": 0,
+      "suggested_area": ""
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 9
+    },
+    "switch": [
+      {
+        "object_id": "builtin_led",
+        "key": 4090153916,
+        "name": "Builtin LED",
+        "unique_id": "esp32c3-superminiswitchbuiltin_led",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "assumed_state": false,
+        "device_class": ""
+      }
+    ]
+  }
+}

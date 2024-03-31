@@ -1,0 +1,35 @@
+esphome:
+  name: esp32asd
+  friendly_name: esp32asd
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "BemI5rOPnA/x2HJCyWfiK5FwHl/WXCkGK/2ApSk3gDk="
+
+ota:
+  password: "a78086989d71c2e7ccea526828b78ded"
+
+wifi:
+  ssid: "espnet"
+  password: "12345678"
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esp32Asd Fallback Hotspot"
+    password: "Db1PyFqS1tYU"
+
+captive_portal:
+
+switch:
+  - platform: gpio
+    name: "Builtin LED"
+    pin: 2

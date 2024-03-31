@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "esphome.e6bd22a35d0338dd9b3cf3a205c6bb51",
+  "data": {
+    "device_info": {
+      "uses_password": false,
+      "name": "esp8266",
+      "friendly_name": "esp8266",
+      "mac_address": "E8:DB:84:E4:30:FA",
+      "compilation_time": "Mar 31 2024, 17:42:41",
+      "model": "esp01_1m",
+      "manufacturer": "Espressif",
+      "has_deep_sleep": false,
+      "esphome_version": "2023.12.9",
+      "project_name": "",
+      "project_version": "",
+      "webserver_port": 0,
+      "voice_assistant_version": 0,
+      "legacy_bluetooth_proxy_version": 0,
+      "bluetooth_proxy_feature_flags": 0,
+      "suggested_area": ""
+    },
+    "services": [],
+    "api_version": {
+      "major": 1,
+      "minor": 9
+    },
+    "switch": [
+      {
+        "object_id": "builtin_led",
+        "key": 4090153916,
+        "name": "Builtin LED",
+        "unique_id": "esp8266switchbuiltin_led",
+        "disabled_by_default": false,
+        "icon": "",
+        "entity_category": 0,
+        "assumed_state": false,
+        "device_class": ""
+      }
+    ]
+  }
+}

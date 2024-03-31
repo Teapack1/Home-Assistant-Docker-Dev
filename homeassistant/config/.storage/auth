@@ -109,9 +109,9 @@
         "access_token_expiration": 1800.0,
         "token": "2262b1aa47ba8c211c29ab9692d568f35da8709869d78a43364b418a9a4db791bcf35741681141e9b8077f608c7e8302ef6f572f72d66b9bc472024a0097965a",
         "jwt_key": "5832daba6c7394fa597c71c7dfc4dd4e15bafa386efff29d326e4b57d5c3942e57e2245ff0125a37e8de0802024866ade27405067f2a2e80b3ffc9b2e4cfdec6",
-        "last_used_at": "2024-03-29T15:07:56.808345+00:00",
+        "last_used_at": "2024-03-30T20:47:46.957288+00:00",
         "last_used_ip": "127.0.0.1",
-        "expire_at": 1719500876.808345,
+        "expire_at": 1719607666.957288,
         "credential_id": "9e1a05ca7c20435a920bfa83028aec9c",
         "version": "2024.2.2"
       },
@@ -147,6 +147,23 @@
         "last_used_ip": null,
         "expire_at": null,
         "credential_id": null,
+        "version": "2024.2.2"
+      },
+      {
+        "id": "01ed63c1b7994704aed7e8fbc377afb9",
+        "user_id": "75a8cd8aede24f82b5b30eb8d1f2af64",
+        "client_id": "http://127.0.0.1:8123/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2024-03-29T21:21:36.356663+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "b611689c6cffe59b37874cd3fa3d26428e09334772d826c9a9d5bfe3d83422eabb561d4056ce62308e5ba8a5ae45a3b7ddc8eed1ff6c90c12e63c2dddd1a3998",
+        "jwt_key": "5532f4321882ba293ecd2b950c18724e81c7d9272c5f057092946776f59ffdbf39426a9ecae7e29b91d6578d6f58096cfd53be961a5074d5091e0dc4bf9c0071",
+        "last_used_at": "2024-03-31T16:57:28.932183+00:00",
+        "last_used_ip": "127.0.0.1",
+        "expire_at": 1719680248.932183,
+        "credential_id": "9e1a05ca7c20435a920bfa83028aec9c",
         "version": "2024.2.2"
       },
       {

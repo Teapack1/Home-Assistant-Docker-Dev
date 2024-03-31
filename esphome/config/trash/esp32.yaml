@@ -1,8 +1,9 @@
 esphome:
   name: esp32
+  friendly_name: esp32
 
 esp32:
-  board: esp32doit-devkit-v1
+  board: esp32dev
   framework:
     type: arduino
 
@@ -11,19 +12,20 @@ logger:
 
 # Enable Home Assistant API
 api:
-  password: ""
+  encryption:
+    key: "aC5A8RmSfmnFhrU2csmxRDHdWgEG2+Z6jUzg0ON3Do4="
 
 ota:
-  password: ""
+  password: "5a93ed8cb86b041989b8871cf67158ab"
 
 wifi:
-  ssid: "Major"
-  password: "12345ABCDE"
+  ssid: "espnet"
+  password: "12345678"
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     ssid: "Esp32 Fallback Hotspot"
-    password: "ccYbJKxbbMQ2"
+    password: "d8UyDJyDei7T"
 
 captive_portal:
     

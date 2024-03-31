@@ -81,11 +81,11 @@
           ],
           [
             "upnp",
-            "uuid:9f0865b3-f5da-4ad5-85b7-7404637fdf37::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+            "uuid:060b7353-fca6-4070-85f4-1fbfb9add62c::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
           ],
           [
             "upnp_serial_number",
-            "1.0"
+            "none"
           ]
         ],
         "manufacturer": "TP-Link",
@@ -144,6 +144,81 @@
         "name": "Node-RED Companion",
         "serial_number": null,
         "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "e6bd22a35d0338dd9b3cf3a205c6bb51"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:e4:30:fa"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "159c429746e9cbd2e29e340c938777e3",
+        "identifiers": [],
+        "manufacturer": "Espressif",
+        "model": "esp01_1m",
+        "name_by_user": null,
+        "name": "esp8266",
+        "serial_number": null,
+        "sw_version": "2023.12.9 (Mar 31 2024, 17:42:41)",
+        "via_device_id": null
+      },
+      {
+        "area_id": "testing_room",
+        "config_entries": [
+          "91c7c003f59fe826375da425ef61ed83"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "08:d1:f9:27:e3:7c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "a4b7da25eee0decf129962c189015868",
+        "identifiers": [],
+        "manufacturer": "Espressif",
+        "model": "esp32dev",
+        "name_by_user": null,
+        "name": "esp32d1mini",
+        "serial_number": null,
+        "sw_version": "2023.12.9 (Mar 31 2024, 18:19:05)",
+        "via_device_id": null
+      },
+      {
+        "area_id": "testing_room",
+        "config_entries": [
+          "415df665510b37949e15232746a339d2"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "84:fc:e6:00:1f:94"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "e6187571ed447222e11bf4e299518466",
+        "identifiers": [],
+        "manufacturer": "Espressif",
+        "model": "esp32-c3-devkitm-1",
+        "name_by_user": null,
+        "name": "esp32C3-supermini",
+        "serial_number": null,
+        "sw_version": "2023.12.9 (Mar 31 2024, 18:57:01)",
         "via_device_id": null
       }
     ],
